@@ -4,7 +4,7 @@ module javafx {
     requires javafx.graphics;
     requires javafx.base;
 
-    exports sample;
+    exports application;
 //    exports gui;
 
 //    opens sample to javafx.fxml;
